@@ -1,0 +1,24 @@
+.product-section{
+    /* border: 1px solid green; */
+    width: 60%;
+
+}
+
+.search input{
+    height: 2rem;
+    width: 70%;
+    margin: .6rem;
+}
+
+.product{
+    border: 1px solid black;
+    margin: 1rem;
+    padding: .5rem;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+.product-btn{
+    height: 2rem;
+    width: 100%;
+}

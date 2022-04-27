@@ -1,0 +1,12 @@
+.App{
+    border: 3px solid black;
+    width: 50%;
+    overflow: scroll;
+    margin: 5rem auto;
+}
+
+.section{
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-around;
+}

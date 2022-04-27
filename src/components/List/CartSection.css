@@ -1,0 +1,35 @@
+.cart-section{
+    border: 3px solid black;
+    width: 40%;
+    overflow: scroll;
+}
+
+.cart-head{
+    border-bottom: 3px solid black;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.cart-head h3{
+    padding: .5rem .2rem;
+    font-size: 1.5rem;
+    margin: 0;
+
+}
+
+.cart-data{
+    border: 1px solid black;
+    margin: 1rem;
+    padding: .5rem;
+}
+
+.cart-section p{
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.1rem;
+    margin-top: 4rem;
+}
+
+.checkout-btn{
+    text-align: center;
+}

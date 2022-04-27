@@ -1,0 +1,12 @@
+.header-cont{
+    border-bottom: 3px solid black;
+    text-align: right;
+    height: 3rem;
+}
+
+.header-cont label, .header-cont input{
+    vertical-align: middle;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
